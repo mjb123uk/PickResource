@@ -1,0 +1,14 @@
+Changelog for PickResource
+
+PickResource 1.0.1 (June 2015)
+====================================
+
+Fixed - Input Options - Excludes - Only last id excluded.
+Fixed - Input Options - Excludes - Loss of field content on change.
+Removed - Input Options - Parents & Depth - Not used.
+Added - Input Options - Root Resource ID - The id of the resource to use as the root of the treelist (default 0).
+
+PickResource 1.0.0 (April 2015)
+====================================
+
+- Initial release following extensive testing.
